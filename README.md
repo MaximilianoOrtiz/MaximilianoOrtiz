@@ -1,5 +1,3 @@
-![Header](github-header-banner.png)
-
 # Hola 👋
 
 **Backend Developer** con experiencia en **Java, Spring Boot, MySQL y Docker**.  

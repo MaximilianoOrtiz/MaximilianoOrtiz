@@ -1,6 +1,7 @@
 # 💫 Hola, soy Maximiliano
 
 👋 **Backend Developer** con experiencia en **Java, Spring Boot, MySQL y Docker**.  
+
 Actualmente trabajo en proyectos para el sector bancario y me estoy capacitando en **Angular** para ampliar mi stack hacia el frontend.  
 
 Soy proactivo, con buena actitud para las relaciones interpersonales, predisposición y responsabilidad.  
